@@ -1,6 +1,6 @@
 # 🚀 Antigravity Test Scenario Generator (AIO Tests Jira)
 
-Este repositório contém um **Agente Inteligente de Engenharia de Qualidade (QA)** especialista em análise, revisão e geração de cenários de teste de software no formato **BDD / Gherkin**, otimizado para importação no **AIO Tests no Jira**.
+Este repositório contém um **Agente Inteligente de Engenharia de Qualidade (QA)** especialista em análise, revisão e geração de cenários de teste de software no formato **BDD / Gherkin**, otimizado para importação no **AIO Tests no Jira**..
 
 ---
 
