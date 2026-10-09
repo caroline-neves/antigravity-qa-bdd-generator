@@ -1,0 +1,11 @@
+# Sistema
+.DS_Store
+__pycache__/
+
+# Arquivos locais de cada QA (não sobem para o repositório)
+.claude/settings.local.json
+.agents/knowledge/
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
